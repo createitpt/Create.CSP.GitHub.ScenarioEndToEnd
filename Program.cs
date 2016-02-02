@@ -27,7 +27,6 @@
         ///  5. Verify domain TXT record configuration with the Azure AD Graph API. 
         ///  6. Create a new user with the Azure AD Graph API.
         ///  7. Assign the new user a Exchange license with the Azure AD Graph API.
-        ///  5. Create a email alias with the Exchange online cmdlets #########################!!!!!!!!!!!!
         static void Main(string[] args)
         {
             try
