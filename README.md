@@ -2,8 +2,8 @@
 |create|it| Microsoft Cloud Solution Provider API Integration Samples
 
 These are samples in C# for using the commerce APIs for Microsoft Partner Center, and the Azure AD Graph APIs. 
-These CREST APIs are documented at https://msdn.microsoft.com/en-us/library/partnercenter/dn974944.aspx.
-The Azure AD Graph API are documented at https://msdn.microsoft.com/Library/Azure/Ad/Graph/api/api-catalog.
+The CREST APIs are documented at https://msdn.microsoft.com/en-us/library/partnercenter/dn974944.aspx.
+The Azure AD Graph APIs are documented at https://msdn.microsoft.com/Library/Azure/Ad/Graph/api/api-catalog.
 
 # Prerequisites
 The prerequisites are similar to the other Partner Center and Azure available samples.
