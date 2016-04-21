@@ -1,4 +1,4 @@
-# Create.CSP
+# Create.CSP.ScenarioEndToEnd
 |create|it| Microsoft Cloud Solution Provider API Integration Samples
 
 These are samples in C# for using the commerce APIs for Microsoft Partner Center, and the Azure AD Graph APIs. 
